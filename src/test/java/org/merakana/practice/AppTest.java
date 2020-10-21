@@ -18,6 +18,18 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
+        password=\"ccccccc"; token=\"ccccccc";
     }
 
     /**
