@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 
----- BEGIN RSA CERTIFICATE ---------
+---- BEGIN CERTIFICATE ---------
     
     
     sdfdnsflnasfnasd
@@ -18,6 +18,6 @@ public class App
     dfasdfdsfsd;fas
         
         
- ----- END RSA CERTIFICATE -----------------
+ ----- END CERTIFICATE -----------------
     }
 }
